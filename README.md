@@ -11,12 +11,7 @@ Blacklists grabbed from https://hetrixtools.com/blacklist-check. Previously used
 
 ![ScreenShot](./bl.png)
 
-### Installation
 
-    git clone https://github.com/adionditsak/blacklist-check-unix-linux-utility.git
-    cd blacklist-check-unix-linux-utility
-    chmod +x ./bl
-    mv ./bl /usr/bin
 
 ### Usage
 
